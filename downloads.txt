@@ -1,0 +1,14 @@
+Went to the ENSEMBL website
+
+clicked on downloads, then Data Access
+
+clicked on FTP site
+
+scrolled down to release 115
+
+clicked fasta and scrolled down to mus musculus/dna/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz
+
+on terminal run the following code 
+
+wget https://ftp.ensembl.org/pub/release-115/fasta/mus_musculus/dna/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz
+
