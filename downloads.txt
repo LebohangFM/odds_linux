@@ -12,3 +12,4 @@ on terminal run the following code
 
 wget https://ftp.ensembl.org/pub/release-115/fasta/mus_musculus/dna/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz
 
+Making this edit for git pull
